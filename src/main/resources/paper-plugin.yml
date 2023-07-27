@@ -1,0 +1,7 @@
+name: BonemealMore
+version: '${version}'
+main: electricsteve.bonemealmore.BonemealMore
+api-version: '1.20'
+prefix: BonemealMore
+authors: [ElectricSteve]
+description: Bonemeal more crops
